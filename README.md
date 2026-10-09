@@ -42,4 +42,4 @@ Web teknolojileri, veritabanı mimarileri ve full-stack geliştirme süreçleriy
 ---
 
 ### 📬 İletişim & Bağlantılar
-- **E-posta:** yigitemreodabas2009@gmail.com(mailto:yigitemreodabas2009@gmail.com)
+- **E-posta:** yigitemreodabas2009@gmail.com
